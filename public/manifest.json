@@ -1,0 +1,22 @@
+{
+  "id": "Textify",
+  "name": "Textify",
+  "scope": "/",
+  "start_url": "/",
+  "short_name": "Textify",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#744FEE",
+  "background_color": "#853FEC",
+  "display": "standalone"
+}
