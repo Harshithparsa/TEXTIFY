@@ -1,4 +1,4 @@
-# Textify - Get Anonymous Messages from Friends!! 🕵️‍♀️✨
+# TEXTIFY - Get Anonymous Messages from Friends!! 🕵️‍♀️✨
 
 ## About Textify
 
